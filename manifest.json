@@ -1,0 +1,15 @@
+{
+  "short_name": "DATASITUS",
+  "name": "DATASITUS APP",
+  "icons": [
+    {
+      "src": "https://107.152.46.170/assets/img/datasitus.png",
+      "type": "image/png",
+      "sizes": "350x350"
+    }
+  ],
+  "start_url": "https://107.152.46.170/",
+  "background_color": "#13273b",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
